@@ -7,5 +7,7 @@ public class Hello {
         System.out.println("hello my friend");
         System.out.println("hasta la vista");
         System.out.println("hello my friend again");
+        System.out.println("quick");
+        System.out.println("fix");
     }
 }
