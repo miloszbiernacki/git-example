@@ -8,5 +8,19 @@
     <artifactId>git-examples</artifactId>
     <version>0.1</version>
 
+    <dependencies>
+
+    <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <version>1.18.10</version>
+        <scope>complie</scope>
+    </dependency>
+
+
+
+
+    </dependencies>
 
 </project>
