@@ -15,8 +15,4 @@ public class Car {
     private BigDecimal price;
     private int engine;
 
-
-
-
-
 }
